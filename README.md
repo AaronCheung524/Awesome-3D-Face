@@ -1,5 +1,5 @@
-# Paper List For 3D Face Reconstruction
-A paper list of recent 3d face reconstruction work
+# Awesome 3D Face
+A paper list of recent 3d face work
 
 <details open>
 <summary>3D Face Animation </summary>
