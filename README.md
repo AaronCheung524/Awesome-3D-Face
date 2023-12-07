@@ -5,6 +5,7 @@ A paper list of recent 3d face work
 <summary>Classical method </summary>
 
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf), ECCV 2020 & COMMUNICATIONS OF THE ACM 2022 | [Project Page](https://www.matthewtancik.com/nerf), [arXiv](https://arxiv.org/pdf/2003.08934.pdf)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://dl.acm.org/doi/pdf/10.1145/3592433), SIGGRAPH & ACM Transactions on Graphics | [Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
 </details>
 
